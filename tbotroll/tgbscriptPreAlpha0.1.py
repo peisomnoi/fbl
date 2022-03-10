@@ -19,7 +19,7 @@ class isheet:
     sid = 'БНГ-001'
     surl = f"https://sheets.googleapis.com/v4/spreadsheets/{tid}/values/{sid}"
     google_token = '1//0ckdqe3fJ4-LRCgYIARAAGAwSNwF-L9IrmPKSdeA2eL0DzmYocxM9J5oENiVZZzcfSix2f9DtcdmC89OJbimZdoWiSuCfu5ikeVc'
-    tgbot_token = "1277500164:AAEkU8DbjZX0E6wRa3JDKUKumIjlOuSLsRM"
+    tgbot_token = "5271326018:AAE0RPykB67e6nP4_kA6a_JPeTVSrW54D_o"
     url_token = "https://oauth2.googleapis.com/token"
     gclient_id = "173493138930-85ifhekbvi7iak312hvbcok3f8466hn6.apps.googleusercontent.com"
     gclient_secret = "wVPZmRRZquXcrcZ53Ygryj7C"
